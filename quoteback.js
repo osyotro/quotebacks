@@ -49,7 +49,7 @@ document.addEventListener("DOMContentLoaded", function(){
                   </div>  
               </div>
 
-          <div class="quoteback-backlink"><a target="_blank" aria-label="go to the full text of this quotation" rel="noopener" href="" class="quoteback-arrow">Go to text <span class="right-arrow">&#8594;</span></a></div>
+          <div class="quoteback-backlink"><a target="_blank" aria-label="go to the full text of this quotation" rel="noopener" href="" class="quoteback-arrow">View original <span class="right-arrow">&#8594;</span></a></div>
           </div>  
       </div>`;
 
